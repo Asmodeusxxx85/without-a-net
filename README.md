@@ -13,4 +13,4 @@ Todo:
 - markup the ordered lists
 - markup and style the captioned figures
 
-Eric Hellman
+Chris Lovewood
